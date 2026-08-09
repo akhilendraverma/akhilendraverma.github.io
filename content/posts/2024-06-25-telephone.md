@@ -1,0 +1,23 @@
+---
+title: "Telephone"
+date: 2024-06-25T21:53:00
+draft: false
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuEhl3KSiWdWtThsSyPexI5yM7GnIw1IMpap2cceTgaltcmMU18f19PMDIqx2NjnUHtW5geBKpk_O-62-hEzND80_89Xw8IGTZABUxcxqM3lUKhLmYLlU5LBYHAKdMBInBrVSKGaEMhUVh467xWZIZlXk2G51ch_Q_1JqKVyaW-vI0LHI2tgetZwEgAcwr/s320/1254672458401.jpg"
+---
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuEhl3KSiWdWtThsSyPexI5yM7GnIw1IMpap2cceTgaltcmMU18f19PMDIqx2NjnUHtW5geBKpk_O-62-hEzND80_89Xw8IGTZABUxcxqM3lUKhLmYLlU5LBYHAKdMBInBrVSKGaEMhUVh467xWZIZlXk2G51ch_Q_1JqKVyaW-vI0LHI2tgetZwEgAcwr/s320/1254672458401.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuEhl3KSiWdWtThsSyPexI5yM7GnIw1IMpap2cceTgaltcmMU18f19PMDIqx2NjnUHtW5geBKpk_O-62-hEzND80_89Xw8IGTZABUxcxqM3lUKhLmYLlU5LBYHAKdMBInBrVSKGaEMhUVh467xWZIZlXk2G51ch_Q_1JqKVyaW-vI0LHI2tgetZwEgAcwr/s800/1254672458401.jpg)
+
+  
+
+This story is from those days when a big dialer was on the telephone. The telephone was placed gracefully in some corner of the house with a wire. Not everyone had phones here, but post offices and PCOs used to have phones. Having phones in homes was a big deal; there used to be a directory for phone numbers.  
+The phone was installed in our house after a long time. To tell the truth, even today, I remember the number 653429 and my aunt’s 652820. It is strange that in today’s time, if the mobile goes missing, then I hardly remember anyone’s number, but in those days, Everyone’s numbers were remembered, yet it was necessary to keep a telephone diary near the phone; it was essential to maintain a directory of the entire city. At that time, it was nice to spend time on the phone. By dialling 161, you could hear your ring. Then the time was known from by dialling 141.
+
+I remember one afternoon, there was no one in the house, and a blank call came. I felt that someone was troubling me, yet I kept talking for a long time by saying, hello, who are you, and then the line disconnected. Suddenly the phone rang many times, and a lovely voice came from the other side. A girl was saying hello. At first, I thought it must be some acquaintance, but she told me that she was dialling from Telephone directory random numbers and dialled this number. Then slowly, the process of conversation started. From what you do to home, weather, don’t know what you like. Then calls started coming every day. Just when I would pick up the phone, she talked to me. Otherwise, she would hang up. The days passed very well, and I used to wait for her call every day. She did not give me her number, and I was not even getting the courage to ask her, as though she would feel bad. In those days, there was no video call on the phone, but I really fell in love with the voice. I just had to pay attention that no one in the house should come to know, especially my mother.
+
+Then our phone went dead one day, and I felt my world had ended. This means the dialer tune stopped coming. Now the meaning of the phone being dead is different, as only a charger is needed, but at that time, a lot of hard work had to be done to correct the dead phone. Write the complaint to BSNL, then get the lineman to fix it. My mother got suspicious about why I was working so seriously to improve the phone as I usually don’t do the housework. That means there must be some issue. She asked me what is going on and are you waiting for any important call. I was afraid and said no, there is nothing like that, and now her doubts increase
+
+The phone started working, then one afternoon, the call came in, but this time Mummy picked up, and she hung up. In those days, it was not easy to catch wrong numbers and missed calls as the numbers were not traceable. After 3-4 missed calls, Mummy sat there and asked who was troubling them so much. I have said that someone is troubling you just like that. Let it go, and don’t pick up the phone. Then mummy went inside, and I picked up, and this time mummy was in front of me in the same lovely voice. I hung up the phone, but Mom asked what was going on, tell the truth.
+
+I also told the whole thing, thinking about how good Mother is. Mummy said this is not a problem. She would like to talk to her if you are a friend. I felt I was unnecessarily afraid of my mother and did not tell. Then the next day when she called, I said to her that my mother wanted to talk to you. She spoke, and my mother very lovingly narrated a lot to her. No one says anything in your house, and I don’t know what. I felt like disconnecting the phone, but my mother did not stop.
+
+The call got disconnected and never came again. A love story had come to a sad end. For many days, looking at the telephone, I used to wish to hear that voice again.

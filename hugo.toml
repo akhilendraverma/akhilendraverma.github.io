@@ -1,0 +1,18 @@
+baseURL = "https://akhilendraverma.github.io/"
+languageCode = "en-us"
+title = "Expression By Akhil"
+theme = "akhil"
+paginate = 12
+enableRobotsTXT = true
+summaryLength = 40
+
+[params]
+  author = "Akhilendra Verma"
+  description = "Personal essays and memoirs by Akhilendra Verma — an Irish-Indian in Ireland who loves photography."
+  bio = "Akhilendra — Irish-Indian living in Ireland. Software project manager at an investment bank. I love photography and writing stories from memory."
+  location = "Navan, Meath, Ireland"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]

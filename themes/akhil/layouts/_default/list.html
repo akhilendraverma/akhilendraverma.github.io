@@ -1,0 +1,30 @@
+{{ define "main" }}
+  {{ if .IsHome }}
+  <section class="hero">
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+  </section>
+  {{ end }}
+
+  <div class="card-grid">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
+    {{ range $paginator.Pages }}
+      <article class="card">
+        <a class="card-link" href="{{ .RelPermalink }}">
+          {{ with .Params.image }}
+          <div class="card-thumb" style="background-image:url('{{ . }}')"></div>
+          {{ else }}
+          <div class="card-thumb card-thumb--none"></div>
+          {{ end }}
+          <div class="card-body">
+            <h2 class="card-title">{{ .Title }}</h2>
+            <time class="card-date">{{ .Date.Format "January 2, 2006" }}</time>
+            <p class="card-summary">{{ .Summary | plainify | truncate 140 }}</p>
+          </div>
+        </a>
+      </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
